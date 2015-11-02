@@ -1,23 +1,23 @@
 {
   "name": "10_30_DataStructuresAlgs",
   "version": "1.0.0",
-  "description": "Data Structures and Algorithms I",
-  "main": "DataStructuresAlgs.js",
+  "description": "Three whiteboard practice challenges",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Taseyfras/10_30_DataStructuresAlgs.git"
+    "url": "https://github.com/tarakreft/10_30_DataStructuresAlgs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Taseyfras/10_30_DataStructuresAlgs/issues"
+    "url": "https://github.com/tarakreft/10_30_DataStructuresAlgs/issues"
   },
-  "homepage": "https://github.com/Taseyfras/10_30_DataStructuresAlgs"
+  "homepage": "https://github.com/tarakreft/10_30_DataStructuresAlgs",
   "devDependencies": {
-
+    "chai": "*",
+    "mocha": "*"
   }
 }
-
